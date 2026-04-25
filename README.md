@@ -1,4 +1,4 @@
-> **Update Note (2026-04-26)**  
+> **Update Note (2026-04-25)**  
 > This project is based on the original tutorial, but I have updated the code to work with the latest library versions as of **April 25, 2026**.  
 > I also revised parts of the implementation logic to improve clarity, compatibility, and the overall teaching flow for beginners.  
 > The main goal of these changes was to keep the project educational while making the examples more consistent with the current LangGraph ecosystem.
